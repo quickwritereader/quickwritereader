@@ -1,7 +1,7 @@
 # 👋 Hi, I'm AbdelRauf (aka quickwritereader)
 
 Senior Software Engineer  
-🔗 [LinkedIn](https://www.linkedin.com/in/abdelrauf-gurbanov-8807a586/) • [GitHub](https://github.com/quickwritereader)
+🔗 [#](https://github.com/quickwritereader)
 
 ---
 
