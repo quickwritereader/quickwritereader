@@ -5,7 +5,7 @@ Senior Software Engineer
 
 ---
 
-Over 15 years of experience in software development, focused on performance, architecture, and long-term maintainability. Contributor to open-source projects in machine learning, optimization, and systems programming.
+software development, focused on performance, architecture, and long-term maintainability. interested in machine learning, optimization, and systems programming.
 
 ---
 
