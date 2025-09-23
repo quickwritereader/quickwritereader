@@ -1,4 +1,4 @@
-# 👋 assalamu aleikum
+# 👋 assalamu aleykum
 
 Senior Software Engineer  
 🔗 [#](https://github.com/quickwritereader)
