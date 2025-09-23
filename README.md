@@ -1,4 +1,4 @@
-# 👋 Hi, I'm AbdelRauf (aka quickwritereader)
+# 👋 assalamu aleikum
 
 Senior Software Engineer  
 🔗 [#](https://github.com/quickwritereader)
